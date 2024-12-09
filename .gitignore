@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Runtime files
+run/
+
+# MacOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Other system files
+Thumbs.db
+desktop.ini
+
+# IDE Specific
+.vscode/
+.idea/
+*.iml

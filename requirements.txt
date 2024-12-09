@@ -1,0 +1,7 @@
+Python 3.8+
+PyTorch 1.10+
+NVIDIA Apex (for mixed precision training)
+NumPy
+OpenCV
+Matplotlib
+TensorBoard (optional for visualization)
