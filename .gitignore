@@ -27,7 +27,7 @@ egg-info/
 *.temp
 
 # Runtime files
-run/
+runs/
 
 # MacOS specific
 .DS_Store
